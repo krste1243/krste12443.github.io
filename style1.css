@@ -1,0 +1,188 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("mojaslika.jpg") no-repeat;
+    background-size: cover;
+}
+.box ul{
+    margin-top: 140px;
+
+}
+.box{
+    height: 550px;
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.box h5{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+.box p{
+    text-align: justify;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+.box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+    color: #b9b9b9;
+}
+.aboutme{
+    display: flex;
+    position: absolute;
+    margin-left:30px;
+    top: 440px;
+    font-size: 19px;
+    left: 34%;
+    color: white;
+    list-style-type: none;
+    font-family: 'Century Gothic',sans-serif;
+
+}
+.aboutme li{
+    color: white;
+margin-right: 15px;
+}
+.naslov1{
+    color: white;
+
+    font-size: 30px;
+    width: 149px;
+    position: absolute;
+    top: 20px;
+    left: 650px;
+    font-family: 'Century Gothic',sans-serif;
+}
+.divot{
+    background-color: lightgrey;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 480px;
+    border-radius: 14px;
+    border: solid 9px black;
+    top: 200px;
+}
+.divot p{
+    padding: 10px;
+    font-size: 20px;
+    align-content: center;
+line-height: 30px;}
+
+.naslov2{
+    color: white;
+    font-size: 30px;
+    width: 309px;
+    position: absolute;
+    top: 20px;
+    left: 600px;
+    font-family: 'Century Gothic',sans-serif;
+}
+.naslov4{
+    color: white;
+    font-size: 30px;
+    width: 309px;
+    position: absolute;
+    top: 20px;
+    left: 632px;
+    font-family: 'Century Gothic',sans-serif;
+}
+.divot4{
+    background-color: lightgrey;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 480px;
+    border-radius: 14px;
+    border: solid 9px black;
+    top: 200px;
+}
+
+.divot2{
+    background-color: lightgrey;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 180px;
+    border-radius: 14px;
+    border: solid 9px black;
+    top: 200px;
+}
+.divot2 p{
+    padding: 40px;
+    font-size: 20px;
+    align-content: center;
+    line-height: 30px;}
+.divot4 p{
+    padding: 17px;
+    font-size: 20px;
+    align-content: center;
+    line-height: 30px;
+}
+.divot3{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    background-color: lightgrey;
+    left: 780px;
+    border-radius: 14px;
+    border: solid 9px black;
+    top: 200px;
+}
+.divot3 ul{
+    padding: 40px;
+    font-size: 20px;
+    align-content: center;
+    line-height: 30px;
+    list-style-type:disclosure-closed;
+}
+.skills{
+    font-size: 25px;
+    position: absolute;
+    top: 7px;
+    margin-left: 150px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.footerul{
+    width: 400px;
+    top: 26px;
+    font-size: 17px;
+    left: 17px;
+    list-style-type: none;
+    display: flex;
+    position: absolute;
+}
+.footerul li{
+    margin-right:18px;
+}
